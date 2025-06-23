@@ -1,0 +1,6 @@
+# ✅ Ignore environment variables
+.env
+.env.*  # includes .env.development, .env.production, etc.
+
+# ✅ Ignore Node.js dependencies
+node_modules/
